@@ -1,8 +1,8 @@
-allow_embedding: false
+allow_embedding: true
 correct_dependency_ids: {}
 db_schema:
   feedback:
-    client: none
+    client: full
     columns:
     - admin_ui: {width: 200}
       name: name
